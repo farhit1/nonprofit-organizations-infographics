@@ -1,6 +1,6 @@
 # Генерация инфографики распределения госсредств на НКО
 
-Презентация проекта в `about.pdf`.
+[Презентация проекта](https://github.com/farhit1/nonprofit-organizations-infographics/blob/master/about.pdf)
 
 ### Инструкция по запуску
 
@@ -15,7 +15,8 @@ API_KEY = '000000000:XXXXXXXXXXXXX_YYYYYYY_ZZZZZZZZZZZZZ'
 
 ### Примеры получаемых изображений
 
-Примеры получаемых изображений лежат в `sample_results`.
+![sample1](https://github.com/farhit1/nonprofit-organizations-infographics/blob/master/sample_results/sample1.jpg)
+![sample3](https://github.com/farhit1/nonprofit-organizations-infographics/blob/master/sample_results/sample3.jpg)
 
 ### Требования
 
