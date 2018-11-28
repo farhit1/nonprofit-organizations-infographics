@@ -1,0 +1,10 @@
+/data/
+/images/map.png
+/images/map.svg
+/slides/
+/convert.sh
+/telegram/api_key.py
+
+/.idea/
+/venv/
+__pycache__/
