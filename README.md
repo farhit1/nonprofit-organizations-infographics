@@ -21,3 +21,7 @@ API_KEY = '000000000:XXXXXXXXXXXXX_YYYYYYY_ZZZZZZZZZZZZZ'
 ### Требования
 
 Python 3, Keynote
+
+### Возможные ошибки
+
+- `“empty.key” can’t be opened right now. The file format is invalid.` *Решение:* вручную открыть и закрыть файлы `keynote/templates/empty.key` и `keynote/templates/empty3.key`, после перезапустить бота.
